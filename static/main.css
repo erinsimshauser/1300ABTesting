@@ -8,6 +8,7 @@ header {
 	padding-top: 20px;
 }
 
+
 .vendor-wrapper {
 	justify-content: left;
 	padding-left: 40px;
@@ -21,8 +22,19 @@ header {
 	padding-right: 20px;
 }
 
+.vendor-photo-b {
+	max-width: 500px;
+	max-height: 350px;
+	padding-right: 20px;
+}
+
 .vendor-book-button {
 	font-size: 2em;
+}
+
+.vendor-book-button-b {
+	font-size: 2em;
+	color: #7cb342;
 }
 
 .content-pane {
@@ -46,10 +58,15 @@ header {
   background: white;
   border-style: solid;
 }
+
 .fa-circle {
   color: #DF0000;
 }
 
 .red-cart {
 	color: #DF0000;
+}
+
+.cool-cart {
+	color: #7cb342;
 }
